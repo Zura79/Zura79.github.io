@@ -1,0 +1,36 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.e6acd46d8dc90f8514d7a430db3d4b54.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon_384x384.290c393a9d331eed661907c18cfc5e47.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon_256x256.497b3e61a6f5701c31d361de3ba00c36.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon_192x192.b650ac487b08cb1e806be88ea8f3f4a7.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "Kickey Champion League",
+  "short_name": "Kickey",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "description": "Find your favorite Team Information here.",
+  "background_color": "#ff6e40",
+  "theme_color": "#ff6e40"
+}
